@@ -7,7 +7,7 @@
   "scripts": {
     "server": "nodemon server.js"
   },
-  "author": "Ranjan Kumar",
+  "author": "Lakshya Patel",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
